@@ -1,0 +1,8 @@
+{
+  "name": "NFC Asistencia - Control de Presencia",
+  "description": "Sistema moderno de control de asistencia mediante tarjetas y pegatinas NFC integrado con una base de datos en la nube y reportes automáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
