@@ -15,8 +15,8 @@ const DEFAULT_SETTINGS: AppSettings = {
   afternoon_end: '22:00',
   duplicate_timeout_minutes: 5,
   timezone: 'Europe/Madrid',
-  device_name: 'Recepción Principal',
-  device_location: 'Edificio Central · Planta Baja',
+  device_name: 'Grupo Joven de Santa Marina',
+  device_location: 'Diseñado por Isaac Fernández Pintor',
   kiosk_pin: '1234',
   sound_enabled: true,
   auto_reset_seconds: 4,
@@ -25,8 +25,8 @@ const DEFAULT_SETTINGS: AppSettings = {
 const DEFAULT_DEVICES: Device[] = [
   {
     id: 'dev-001',
-    name: 'Recepción Principal',
-    location: 'Edificio Central · Planta Baja',
+    name: 'Grupo Joven de Santa Marina',
+    location: 'Diseñado por Isaac Fernández Pintor',
     active: true,
     created_at: new Date('2026-01-15T08:00:00Z').toISOString(),
   },
