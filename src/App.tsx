@@ -341,7 +341,7 @@ export default function App() {
             <span className="font-mono text-slate-400">{settings.device_location}</span>
           </div>
           <div>
-            <span>Diseñado para tabletas de recepción y terminales NFC</span>
+            <span> Diseñador por Isaac Fernández Pintor </span>
           </div>
         </div>
       </footer>
